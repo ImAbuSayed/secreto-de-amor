@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secreto-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Secreto de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secreto-de-amor/) |
+| **Get License** | [Obtain a Music License for Secreto de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secreto-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus ojos me dicen lo que calla tu boca
+> Bailando en la sombra, la noche se vuelve loca
+> Siento tu fuego, mami, quemando la piel
+> Este secreto de amor, me sabe a miel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
